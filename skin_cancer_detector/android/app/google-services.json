@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241357820666",
+    "project_id": "skin-6c534",
+    "storage_bucket": "skin-6c534.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241357820666:android:fa4b79613ee51710226f43",
+        "android_client_info": {
+          "package_name": "com.example.my_tflit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241357820666-bapkat9rlqda486u0rhljbb0e1h6aatu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAzDnEi-Wx1Vb0tE_DZPi7G6boqP7PAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241357820666-bapkat9rlqda486u0rhljbb0e1h6aatu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
